@@ -1,0 +1,16 @@
+D:\MA\2021-2022\P3\C#\School\L2Arrays\bin\Debug\net5.0\L2Arrays.exe
+D:\MA\2021-2022\P3\C#\School\L2Arrays\bin\Debug\net5.0\L2Arrays.deps.json
+D:\MA\2021-2022\P3\C#\School\L2Arrays\bin\Debug\net5.0\L2Arrays.runtimeconfig.json
+D:\MA\2021-2022\P3\C#\School\L2Arrays\bin\Debug\net5.0\L2Arrays.runtimeconfig.dev.json
+D:\MA\2021-2022\P3\C#\School\L2Arrays\bin\Debug\net5.0\L2Arrays.dll
+D:\MA\2021-2022\P3\C#\School\L2Arrays\bin\Debug\net5.0\L2Arrays.pdb
+D:\MA\2021-2022\P3\C#\School\L2Arrays\obj\Debug\net5.0\L2Arrays.csproj.AssemblyReference.cache
+D:\MA\2021-2022\P3\C#\School\L2Arrays\obj\Debug\net5.0\L2Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\MA\2021-2022\P3\C#\School\L2Arrays\obj\Debug\net5.0\L2Arrays.AssemblyInfoInputs.cache
+D:\MA\2021-2022\P3\C#\School\L2Arrays\obj\Debug\net5.0\L2Arrays.AssemblyInfo.cs
+D:\MA\2021-2022\P3\C#\School\L2Arrays\obj\Debug\net5.0\L2Arrays.csproj.CoreCompileInputs.cache
+D:\MA\2021-2022\P3\C#\School\L2Arrays\obj\Debug\net5.0\L2Arrays.dll
+D:\MA\2021-2022\P3\C#\School\L2Arrays\obj\Debug\net5.0\refint\L2Arrays.dll
+D:\MA\2021-2022\P3\C#\School\L2Arrays\obj\Debug\net5.0\L2Arrays.pdb
+D:\MA\2021-2022\P3\C#\School\L2Arrays\obj\Debug\net5.0\L2Arrays.genruntimeconfig.cache
+D:\MA\2021-2022\P3\C#\School\L2Arrays\obj\Debug\net5.0\ref\L2Arrays.dll

@@ -1,0 +1,16 @@
+D:\MA\2021-2022\P3\C#\School\L3Classes\bin\Debug\net5.0\L3Classes.exe
+D:\MA\2021-2022\P3\C#\School\L3Classes\bin\Debug\net5.0\L3Classes.deps.json
+D:\MA\2021-2022\P3\C#\School\L3Classes\bin\Debug\net5.0\L3Classes.runtimeconfig.json
+D:\MA\2021-2022\P3\C#\School\L3Classes\bin\Debug\net5.0\L3Classes.runtimeconfig.dev.json
+D:\MA\2021-2022\P3\C#\School\L3Classes\bin\Debug\net5.0\L3Classes.dll
+D:\MA\2021-2022\P3\C#\School\L3Classes\bin\Debug\net5.0\L3Classes.pdb
+D:\MA\2021-2022\P3\C#\School\L3Classes\obj\Debug\net5.0\L3Classes.csproj.AssemblyReference.cache
+D:\MA\2021-2022\P3\C#\School\L3Classes\obj\Debug\net5.0\L3Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\MA\2021-2022\P3\C#\School\L3Classes\obj\Debug\net5.0\L3Classes.AssemblyInfoInputs.cache
+D:\MA\2021-2022\P3\C#\School\L3Classes\obj\Debug\net5.0\L3Classes.AssemblyInfo.cs
+D:\MA\2021-2022\P3\C#\School\L3Classes\obj\Debug\net5.0\L3Classes.csproj.CoreCompileInputs.cache
+D:\MA\2021-2022\P3\C#\School\L3Classes\obj\Debug\net5.0\L3Classes.dll
+D:\MA\2021-2022\P3\C#\School\L3Classes\obj\Debug\net5.0\refint\L3Classes.dll
+D:\MA\2021-2022\P3\C#\School\L3Classes\obj\Debug\net5.0\L3Classes.pdb
+D:\MA\2021-2022\P3\C#\School\L3Classes\obj\Debug\net5.0\L3Classes.genruntimeconfig.cache
+D:\MA\2021-2022\P3\C#\School\L3Classes\obj\Debug\net5.0\ref\L3Classes.dll

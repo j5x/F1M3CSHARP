@@ -1,0 +1,16 @@
+D:\MA\2021-2022\P3\C#\School\L2Loops\bin\Debug\net5.0\L2Loops.exe
+D:\MA\2021-2022\P3\C#\School\L2Loops\bin\Debug\net5.0\L2Loops.deps.json
+D:\MA\2021-2022\P3\C#\School\L2Loops\bin\Debug\net5.0\L2Loops.runtimeconfig.json
+D:\MA\2021-2022\P3\C#\School\L2Loops\bin\Debug\net5.0\L2Loops.runtimeconfig.dev.json
+D:\MA\2021-2022\P3\C#\School\L2Loops\bin\Debug\net5.0\L2Loops.dll
+D:\MA\2021-2022\P3\C#\School\L2Loops\bin\Debug\net5.0\L2Loops.pdb
+D:\MA\2021-2022\P3\C#\School\L2Loops\obj\Debug\net5.0\L2Loops.csproj.AssemblyReference.cache
+D:\MA\2021-2022\P3\C#\School\L2Loops\obj\Debug\net5.0\L2Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\MA\2021-2022\P3\C#\School\L2Loops\obj\Debug\net5.0\L2Loops.AssemblyInfoInputs.cache
+D:\MA\2021-2022\P3\C#\School\L2Loops\obj\Debug\net5.0\L2Loops.AssemblyInfo.cs
+D:\MA\2021-2022\P3\C#\School\L2Loops\obj\Debug\net5.0\L2Loops.csproj.CoreCompileInputs.cache
+D:\MA\2021-2022\P3\C#\School\L2Loops\obj\Debug\net5.0\L2Loops.dll
+D:\MA\2021-2022\P3\C#\School\L2Loops\obj\Debug\net5.0\refint\L2Loops.dll
+D:\MA\2021-2022\P3\C#\School\L2Loops\obj\Debug\net5.0\L2Loops.pdb
+D:\MA\2021-2022\P3\C#\School\L2Loops\obj\Debug\net5.0\L2Loops.genruntimeconfig.cache
+D:\MA\2021-2022\P3\C#\School\L2Loops\obj\Debug\net5.0\ref\L2Loops.dll
