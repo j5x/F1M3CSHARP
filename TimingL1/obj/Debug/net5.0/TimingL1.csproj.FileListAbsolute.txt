@@ -1,0 +1,16 @@
+C:\MA\2021-2022\P3\C#\TimingL1\obj\Debug\net5.0\TimingL1.csproj.AssemblyReference.cache
+C:\MA\2021-2022\P3\C#\TimingL1\obj\Debug\net5.0\TimingL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\2021-2022\P3\C#\TimingL1\obj\Debug\net5.0\TimingL1.AssemblyInfoInputs.cache
+C:\MA\2021-2022\P3\C#\TimingL1\obj\Debug\net5.0\TimingL1.AssemblyInfo.cs
+C:\MA\2021-2022\P3\C#\TimingL1\obj\Debug\net5.0\TimingL1.csproj.CoreCompileInputs.cache
+C:\MA\2021-2022\P3\C#\TimingL1\bin\Debug\net5.0\TimingL1.exe
+C:\MA\2021-2022\P3\C#\TimingL1\bin\Debug\net5.0\TimingL1.deps.json
+C:\MA\2021-2022\P3\C#\TimingL1\bin\Debug\net5.0\TimingL1.runtimeconfig.json
+C:\MA\2021-2022\P3\C#\TimingL1\bin\Debug\net5.0\TimingL1.runtimeconfig.dev.json
+C:\MA\2021-2022\P3\C#\TimingL1\bin\Debug\net5.0\TimingL1.dll
+C:\MA\2021-2022\P3\C#\TimingL1\bin\Debug\net5.0\TimingL1.pdb
+C:\MA\2021-2022\P3\C#\TimingL1\obj\Debug\net5.0\TimingL1.dll
+C:\MA\2021-2022\P3\C#\TimingL1\obj\Debug\net5.0\refint\TimingL1.dll
+C:\MA\2021-2022\P3\C#\TimingL1\obj\Debug\net5.0\TimingL1.pdb
+C:\MA\2021-2022\P3\C#\TimingL1\obj\Debug\net5.0\TimingL1.genruntimeconfig.cache
+C:\MA\2021-2022\P3\C#\TimingL1\obj\Debug\net5.0\ref\TimingL1.dll

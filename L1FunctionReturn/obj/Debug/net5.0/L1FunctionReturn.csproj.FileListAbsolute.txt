@@ -1,0 +1,16 @@
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\bin\Debug\net5.0\L1FunctionReturn.exe
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\bin\Debug\net5.0\L1FunctionReturn.deps.json
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\bin\Debug\net5.0\L1FunctionReturn.runtimeconfig.json
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\bin\Debug\net5.0\L1FunctionReturn.runtimeconfig.dev.json
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\bin\Debug\net5.0\L1FunctionReturn.dll
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\bin\Debug\net5.0\L1FunctionReturn.pdb
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\obj\Debug\net5.0\L1FunctionReturn.csproj.AssemblyReference.cache
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\obj\Debug\net5.0\L1FunctionReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\obj\Debug\net5.0\L1FunctionReturn.AssemblyInfoInputs.cache
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\obj\Debug\net5.0\L1FunctionReturn.AssemblyInfo.cs
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\obj\Debug\net5.0\L1FunctionReturn.csproj.CoreCompileInputs.cache
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\obj\Debug\net5.0\L1FunctionReturn.dll
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\obj\Debug\net5.0\refint\L1FunctionReturn.dll
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\obj\Debug\net5.0\L1FunctionReturn.pdb
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\obj\Debug\net5.0\L1FunctionReturn.genruntimeconfig.cache
+C:\MA\2021-2022\P3\C#\L1FunctionReturn\obj\Debug\net5.0\ref\L1FunctionReturn.dll

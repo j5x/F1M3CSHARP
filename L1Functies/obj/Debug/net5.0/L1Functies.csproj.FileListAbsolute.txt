@@ -1,0 +1,16 @@
+C:\MA\2021-2022\P3\C#\L1Functies\bin\Debug\net5.0\L1Functies.exe
+C:\MA\2021-2022\P3\C#\L1Functies\bin\Debug\net5.0\L1Functies.deps.json
+C:\MA\2021-2022\P3\C#\L1Functies\bin\Debug\net5.0\L1Functies.runtimeconfig.json
+C:\MA\2021-2022\P3\C#\L1Functies\bin\Debug\net5.0\L1Functies.runtimeconfig.dev.json
+C:\MA\2021-2022\P3\C#\L1Functies\bin\Debug\net5.0\L1Functies.dll
+C:\MA\2021-2022\P3\C#\L1Functies\bin\Debug\net5.0\L1Functies.pdb
+C:\MA\2021-2022\P3\C#\L1Functies\obj\Debug\net5.0\L1Functies.csproj.AssemblyReference.cache
+C:\MA\2021-2022\P3\C#\L1Functies\obj\Debug\net5.0\L1Functies.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\2021-2022\P3\C#\L1Functies\obj\Debug\net5.0\L1Functies.AssemblyInfoInputs.cache
+C:\MA\2021-2022\P3\C#\L1Functies\obj\Debug\net5.0\L1Functies.AssemblyInfo.cs
+C:\MA\2021-2022\P3\C#\L1Functies\obj\Debug\net5.0\L1Functies.csproj.CoreCompileInputs.cache
+C:\MA\2021-2022\P3\C#\L1Functies\obj\Debug\net5.0\L1Functies.dll
+C:\MA\2021-2022\P3\C#\L1Functies\obj\Debug\net5.0\refint\L1Functies.dll
+C:\MA\2021-2022\P3\C#\L1Functies\obj\Debug\net5.0\L1Functies.pdb
+C:\MA\2021-2022\P3\C#\L1Functies\obj\Debug\net5.0\L1Functies.genruntimeconfig.cache
+C:\MA\2021-2022\P3\C#\L1Functies\obj\Debug\net5.0\ref\L1Functies.dll
